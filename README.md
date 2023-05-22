@@ -1,1 +1,1 @@
-uma tabela zebra https://ojonee.github.io/tabela-zebra/
+uma tabela zebra (com nth :O) https://ojonee.github.io/tabela-zebra/
