@@ -1,1 +1,1 @@
-uma tabela zebra (com nth :O) https://ogabito.github.io/tabela-zebra/
+# [Tabela zebra](https://jonye11.github.io/tabela-zebra/)
